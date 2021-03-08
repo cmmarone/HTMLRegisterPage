@@ -1,0 +1,58 @@
+body{
+    background-color: #40a3f5;
+}
+
+.navbar{
+    text-align: right;
+    background-color: white;
+    font-family: Helvetica, Times;
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    width: 100%;
+    filter: drop-shadow(4px 4px 4px grey);
+    padding: 25px 0px;
+}
+
+#linkButtons{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 12px;
+    font-family: Helvetica, Times;
+    font-size: 16px;
+    color: white;
+    background-color: #40a3f5;
+    margin: 40px 20px;
+    text-decoration: none;
+}
+
+.signUpForm{
+    text-align: center;
+    width: 20%;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    filter: drop-shadow(4px 4px 4px grey);
+    margin: auto;
+    margin-top: 100px;
+}
+
+img{
+    width: 20px;
+    height: 20px;
+    padding: 0px 6px;
+    margin: 0px 0px 5px 0px;
+}
+
+h2{
+    font-family: Helvetica, Times;
+    text-align: left;
+    padding: 0px 40px;
+}
+
+button{
+    color: white;
+    width: 50%;
+    background-color: blue;
+    text-align: center;
+}
